@@ -1,0 +1,9 @@
+<?php
+$math=100;
+$bangla=80;
+$ict=70;
+$lang=50;
+$result=$math+$bangla+$ict+$lang;
+
+$user_name='Daniel';
+echo"$user_name you result is $result";
